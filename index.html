@@ -7,6 +7,18 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+    ></script>
+
+    <link
       href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap"
       rel="stylesheet"
     />
@@ -16,7 +28,9 @@
         font-family: 'Noto Sans KR', sans-serif, Verdana, Geneva, Tahoma;
       }
       table {
-        width: 100%;
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
         border: 1px solid #444444;
         border-collapse: collapse;
       }
@@ -24,45 +38,78 @@
       td {
         border: 1px solid #444444;
       }
+      .title {
+        width: 100%;
+        height: 250px;
+        background-image: linear-gradient(
+            to bottom,
+            rgba(255, 255, 255, 0),
+            rgba(255, 255, 255, 1)
+          ),
+          url('http://source.unsplash.com/random?tabletennis');
+
+        background-position: center;
+        background-size: cover;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      .subtitle {
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .update-time {
+        width: 95%;
+        color: gray;
+        margin-left: auto;
+        margin-right: auto;
+      }
     </style>
   </head>
   <body>
-    <div><h2>🏓 전국대회일정</h2></div>
-    <p>
-      <span style="color: gray"
-        ><a href="https://airping.co.kr/04match/02.php" target="_blank"
-          >에어핑퐁</a
-        >,
-        <a
-          href="http://www.iping.club/?pg=competition&m=3&Ctype=A&cPage=2&cPage=1"
-          target="_blank"
-          >아이핑</a
-        >,
-        <a
-          href="https://www.superstar.kr/open/Do.jsp?urlSeq=206"
-          target="_blank"
-          >슈퍼스타탁구</a
-        >,
-        <a href="https://mytt.kr/ttc/contest_list.xhtml?scale=L" target="_blank"
-          >마이티티</a
-        >,
-        <a
-          href="http://www.ttplay.co.kr/sports/sub02_view.asp?PAGE="
-          target="_blank"
-          >티티플레이</a
-        >
-      </span>
-      사이트에 등록된 경기 일정 정보를 불러옵니다.
-      <br /><br />
-      반영되지 않은 내용이 있다면 하단의 이메일로 알려주세요. 수정하겠습니다 :)
-    </p>
+    <div>
+      <h2 class="title">🏓 전국대회일정</h2>
+      <p class="subtitle">
+        <span
+          ><a href="https://airping.co.kr/04match/02.php" target="_blank"
+            >에어핑퐁</a
+          >,
+          <a
+            href="http://www.iping.club/?pg=competition&m=3&Ctype=A&cPage=2&cPage=1"
+            target="_blank"
+            >아이핑</a
+          >,
+          <a
+            href="https://www.superstar.kr/open/Do.jsp?urlSeq=206"
+            target="_blank"
+            >슈퍼스타탁구</a
+          >,
+          <a
+            href="https://mytt.kr/ttc/contest_list.xhtml?scale=L"
+            target="_blank"
+            >마이티티</a
+          >,
+          <a
+            href="http://www.ttplay.co.kr/sports/sub02_view.asp?PAGE="
+            target="_blank"
+            >티티플레이</a
+          >
 
-    <img
-      src="http://source.unsplash.com/random/300x150?tabletennis"
-      max-width="100%"
-    />
-    <p>업데이트 시간: 
-2023-09-21 11:13:08.696737
+          사이트에 등록된 경기 일정 정보를 불러옵니다.
+          <br /><br />
+          반영되지 않은 내용이 있다면 하단의 이메일로 알려주세요. 수정하겠습니다
+          :)</span
+        >
+      </p>
+    </div>
+    <p class="update-time">업데이트 시간: 
+2023-09-21 19:46:23.686194
 </p>
 
     <hr />
@@ -78,14 +125,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href=https://airping.co.kr/04match/05_1view.php?idx=637>  📎 제1회 음성 명작페스티벌 전국오픈탁구대회  (42)</a></td>
+      <td><a href=https://airping.co.kr/04match/05_1view.php?idx=637>  📎 제1회 음성 명작페스티벌 전국오픈탁구대회  (45)</a></td>
       <td>2023-09-23</td>
       <td>2023-09-24</td>
       <td>금빛체육센터</td>
       <td>에어핑퐁</td>
     </tr>
     <tr>
-      <td><a href=http://www.iping.club/?id=3331&pg=CV&m=3&PHPSESSID=b5eb15768fb042ebbf558669178790de>  📎 [대구] 2023 타그로 대구/경북오픈 탁구대회</a></td>
+      <td><a href=http://www.iping.club/?id=3331&pg=CV&m=3&PHPSESSID=9c2c0b03622c3b20318c872e22ee4b73>  📎 [대구] 2023 타그로 대구/경북오픈 탁구대회</a></td>
       <td>2023-09-24</td>
       <td>2023-09-24</td>
       <td>링크참고</td>
@@ -197,7 +244,7 @@
       <td>슈퍼스타탁구</td>
     </tr>
     <tr>
-      <td><a href=http://www.iping.club/?id=3396&pg=CV&m=3&PHPSESSID=b5eb15768fb042ebbf558669178790de>  📎 [경기] 제4회 가평 자라섬배 전국오픈 탁구대회</a></td>
+      <td><a href=http://www.iping.club/?id=3396&pg=CV&m=3&PHPSESSID=9c2c0b03622c3b20318c872e22ee4b73>  📎 [경기] 제4회 가평 자라섬배 전국오픈 탁구대회</a></td>
       <td>2023-10-21</td>
       <td>2023-10-22</td>
       <td>링크참고</td>
@@ -246,14 +293,14 @@
       <td>슈퍼스타탁구</td>
     </tr>
     <tr>
-      <td><a href=http://www.iping.club/?id=3412&pg=CV&m=3&PHPSESSID=b5eb15768fb042ebbf558669178790de>  📎 [강원] 제2회 탁구브랜드협의회 전국오픈 탁구대회</a></td>
+      <td><a href=http://www.iping.club/?id=3412&pg=CV&m=3&PHPSESSID=9c2c0b03622c3b20318c872e22ee4b73>  📎 [강원] 제2회 탁구브랜드협의회 전국오픈 탁구대회</a></td>
       <td>2023-11-04</td>
       <td>2023-11-05</td>
       <td>링크참고</td>
       <td>아이핑</td>
     </tr>
     <tr>
-      <td><a href=https://mytt.kr/c67;jsessionid=CFC3517DF461E6843B22178F19257617>  📎 제11회 성남시 남한산성배 전국 생활체육 탁구대회</a></td>
+      <td><a href=https://mytt.kr/c67;jsessionid=6C4EFA3E4CD9607CF5AD4CE2444A13FE>  📎 제11회 성남시 남한산성배 전국 생활체육 탁구대회</a></td>
       <td>2023-11-04</td>
       <td>2023-11-05</td>
       <td>성남실내체육관</td>
@@ -267,7 +314,7 @@
       <td>슈퍼스타탁구</td>
     </tr>
     <tr>
-      <td><a href=http://www.iping.club/?id=3423&pg=CV&m=3&PHPSESSID=b5eb15768fb042ebbf558669178790de>  📎 [강원] 제1회 청정수소도시배 삼척라지볼 탁구대회</a></td>
+      <td><a href=http://www.iping.club/?id=3423&pg=CV&m=3&PHPSESSID=9c2c0b03622c3b20318c872e22ee4b73>  📎 [강원] 제1회 청정수소도시배 삼척라지볼 탁구대회</a></td>
       <td>2023-11-17</td>
       <td>2023-11-17</td>
       <td>링크참고</td>
@@ -281,7 +328,7 @@
       <td>슈퍼스타탁구</td>
     </tr>
     <tr>
-      <td><a href=http://www.iping.club/?id=3422&pg=CV&m=3&PHPSESSID=b5eb15768fb042ebbf558669178790de>  📎 [강원] 제1회 청정수소도시배 삼척전국오픈 탁구대회</a></td>
+      <td><a href=http://www.iping.club/?id=3422&pg=CV&m=3&PHPSESSID=9c2c0b03622c3b20318c872e22ee4b73>  📎 [강원] 제1회 청정수소도시배 삼척전국오픈 탁구대회</a></td>
       <td>2023-11-18</td>
       <td>2023-11-19</td>
       <td>링크참고</td>
@@ -298,11 +345,9 @@
 </table>
        </div>
     <hr />
-    <!-- <div>등록되지 않은 대회 정보를 받습니다.</div> -->
-    <!-- <div>조회수, 기타 정보</div> -->
     <!-- <div>contact</div> -->
-    <div>
-      <p>📮 memorylane.dev1@gmail.com</p>
+    <div class="card">
+      <div class="card-header">📮 memorylane.dev1@gmail.com</div>
     </div>
   </body>
 </html>

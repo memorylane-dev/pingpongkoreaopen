@@ -1,46 +1,49 @@
-Privacy Policy  
+개인정보 처리방침
 ----------------
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at MemoryLane, how MemoryLane uses it, and what choices you have.
-MemoryLane built this app as a free app. This SERVICE is provided by MemoryLane at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+본 방침은 2023년 12월 16일부터 적용됩니다.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+### 1. 개인정보의 수집 및 이용 목적
+탁구대회가자 팀은 수집한 개인정보를 다음의 목적을 위해 활용합니다.
+1) 회원 가입 및 관리
+2) 대회톡 등 서비스 이용시 본인 확인
+3) 맞춤형 정보 제공
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+### 2. 개인정보의 보유 및 이용기간
+수집한 개인 정보는 이용자가 서비스를 이용하는 기간 동안 보관됩니다.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+### 3. 수집하는 개인정보의 항목
+1) 개인정보 수집방법: 앱을 통한 회원 가입
+2) 이름, 이메일 등 필수 정보 / 활동 지역 등 서비스 관련 선택 입력 정보 / 최초가입일 등 자동 수집 항목
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+### 4. 개인정보의 파기절차 및 방법
+가입한 이용자가 개인정보 삭제를 요청하는 경우 개인정보 삭제를 요청하는 경우 관계 법령에 따라 요청사항을 확인 후 1년 보관 또는 즉시 파기합니다.
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+### 5. 개인정보 제공
+탁구대회가자 팀은 이용자의 개인정보를 원칙적으로 외부에 제공하지 않습니다. 다만, 법령의 규정에 의거하거나, 수사 목적으로 사기관의 요구가 있는 경우 등의 경우에는 해당 기관에 개인정보를 제공할 수 있습니다.
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+### 6. 수집한 개인정보의 위탁
+탁구대회가자 팀은 이용자의 정보를 Google Firebase에 위탁하고 있으며, 관계법령에 따라 위탁 처리되는 개인정보가 안전하게 관리될 수 있도록 필요한 조치를 다하고 있습니다.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+### 7. 이용자 및 법정대리인의 권리와 그 행사방법
+이용자 및 법정 대리인은 언제든지 등록되어 있는 본인 혹은 당해 만 14세 미만 아동의 개인정보를 조회하거나 수정할 수 있으며 가입 해지를 요청할 수 있습니다. 
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+### 8. 개인정보 자동수집 장치의 설치, 운영 및 그 거부에 관한 사항
+현재 이용자의 개인정보를 자동수집하지 않으나 추후 맞춤형 정보 제공을 위하여 이용자별 맞춤서비스 등을 제공하기 위하여 쿠키(cookie)를 설치 및 운영할 수 있습니다.
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+### 9. 개인정보의 안정성 확보조치에 관한 사항
+이용자의 개인정보는 비밀번호에 의해 보호되고 있으며, 비밀번호는 오직 본인만이 알 수 있으므로, 누구에게도 알려주면 안됩니다. 본인 명의의 기기 이외에는 사용 후 반드시 로그아웃하시기를 권장합니다. 이용상 부주의로 인한 개인정보 유출에 대한 책임은 이용자에게 있습니다.
+탁구대회가자 팀은 개인정보에 대한 보안을 매우 중요하게 생각하며, 이용자 개인정보의 무단 접근, 공개, 사용 및 수정을 막기 위해 다음과 같은 보안 조치를 구축하고 있습니다.
+- 위탁서비스를 활용한 개인정보 암호화
+- 취급 인원의 최소화 및 교육
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+### 10. 개인정보 관리 책임자 및 담당자
+개인정보 관리에 대하여 의견이 있거나 이용자의 정보를 업데이트하고자 하는 경우 아래 연락처로 연락 바랍니다.
+이름: 이신혜
+이메일: memorylane.dev1@gmail.com
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: memorylane.dev1@gmail.com  
+### 11. 개인정보 취급방침 변경에 관한 사항
+이 개인정보 취급방침은 2023년 12월 16일부터 적용됩니다.
+
+변경이전의 “정보보안 처리방침”
+(2023-11-09) https://github.com/memorylane-dev/pingpongkoreaopen/commit/20ef2e9c8f42cd2a1444148a269b751ccbeeccb5
